@@ -1,9 +1,10 @@
+ 
   <h1 align="center">Hi 👋, I'm JEET RAHA</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center"https://github.com/Raha-Jeet/Raha-Jeet/blob/main/dark-blue-futuristic-technology-linkedin-600nw-2358315111.webp>A passionate software developer from India</h3>
 <img align ="right" alt="animation" width="400" src="https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raha-jeet&label=Profile%20views&color=0e75b6&style=flat" alt="raha-jeet" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raha-jeet" alt="raha-jeet" /></a> </p>
+ 
 
 - 🌱 I’m currently learning **DSA Using JAVA**
 
