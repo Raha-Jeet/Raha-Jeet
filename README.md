@@ -5,18 +5,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raha-jeet&label=Profile%20views&color=0e75b6&style=flat" alt="raha-jeet" /> </p>
 
- 
-- 🔭 I’m currently working on **I’m currently working on an exciting project called AI Career Coach Agent, which aims to help individuals with modern tech-based career guidance**
+## 👋 About Me
 
-- 🌱 I’m currently learning **DSA with JAVA**
+- 🔭 I’m currently working on:  
+  **AI Career Coach Agent** – an exciting project that provides modern, tech-based career guidance for individuals navigating the evolving job market.
 
-- 👯 I’m looking to collaborate on **I’m looking to collaborate on Open Source AI Projects that create real-world impact and help sharpen my problem-solving skills.**
+- 🌱 I’m currently learning:  
+  **Data Structures & Algorithms with Java** – strengthening my core problem-solving skills.
 
-- 💬 Ask me about **C,JAVA,HTML,CSS,JS,SQL**
+- 🤝 I’m open to collaborating on:  
+  **Open Source AI Projects** that create real-world impact and help sharpen my skills in development and innovation.
 
-- 📫 How to reach me **You can reach me at jeetrhah9@gmail.com or jeetrahaoffi@gmail.com**
+- 💬 Ask me about:  
+  **C, Java, HTML, CSS, JavaScript, SQL** – always happy to share knowledge and learn together!
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jeet-raha-90444231a](https://www.linkedin.com/in/jeet-raha-90444231a)
+- 📫 Reach me at:  
+  📧 jeetraha9@gmail.com  
+  📧 jeetrahaoffi@gmail.com
+
+- 📄 Know more about my experiences:  
+  [🔗 LinkedIn – Jeet Raha](https://www.linkedin.com/in/jeet-raha-90444231a)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,10 +45,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=raha-jeet&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
- 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raha-jeet&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
 
 
 
